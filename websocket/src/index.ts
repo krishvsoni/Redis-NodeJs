@@ -75,3 +75,4 @@ setInterval(() => {
 }, 5000);
 
 console.log('WebSocket server is running on ws://localhost:8080');
+// redis docker 
